@@ -9,4 +9,4 @@ Enjoy!!
 
 :)
 
-This repository contains the app, an installation file of the same and the source code.
+This repository contains an installation file and the source code.
