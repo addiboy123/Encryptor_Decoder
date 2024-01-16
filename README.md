@@ -9,4 +9,3 @@ Enjoy!!
 
 :)
 
-This repository contains an installation file and the source code.
